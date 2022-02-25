@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A little handful of cordial comforts scattered thorowout several answers, to sixteen questions, and objections following : intended chiefly for the good of those that walk mournfully before God ... / by Richard Standfast ...</title>
+            <author>Standfast, Richard, 1608?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61262</idno>
+            <idno type="STC">Wing S5210</idno>
+            <idno type="STC">ESTC R33851</idno>
+            <idno type="EEBO-CITATION">13584733</idno>
+            <idno type="OCLC">ocm 13584733</idno>
+            <idno type="VID">100509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A little handful of cordial comforts scattered thorowout several answers, to sixteen questions, and objections following : intended chiefly for the good of those that walk mournfully before God ... / by Richard Standfast ...</title>
+                  <author>Standfast, Richard, 1608?-1684.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition.</edition>
+               </editionStmt>
+               <extent>[2], 83 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Mabb, and are to be sold by Edward Thomas ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Consolation.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100509:1"/>
+            <pb facs="tcp:100509:1"/>
+            <p>A LITTLE HANDFUL OF <hi>Cordial Comforts,</hi> Scattered thorowout ſeveral <hi>An<g ref="char:EOLhyphen"/>ſwers,</hi> to Sixteen <hi>Queſtions,</hi> and <hi>Objections</hi> following. Intended chiefly for the good of thoſe that walk mournfully before God; And are worthy to be gathered up, and regarded, of all ſuch as wiſh well to their own Peace.</p>
+            <p>By RICHARD STANDFAST, M<hi rend="sup">r</hi>. of Arts, and Rector of <hi>Chriſt-Church</hi> in <hi>Briſtol.</hi>
+            </p>
+            <q>
+               <hi>Believe, and Live.</hi>
+            </q>
+            <p>The Fourth Edition.</p>
+            <p>
+               <hi>London</hi> Printed by <hi>T. Mabb,</hi> and are to be ſold by <hi>Edward Thomas,</hi> at the <hi>Adam</hi> and <hi>Eve,</hi> in little <hi>Brittain,</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100509:2"/>
+            <pb n="1" facs="tcp:100509:2"/>
+            <head>A Little Handfull OF Cordial Comforts, Scattered thorowout ſeveral <hi>Anſwers</hi> to certain <hi>Questions</hi> and <hi>Objections</hi> following.</head>
+            <div n="1" type="question">
+               <head>The Firſt Queſtion.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">O</seg>H wretched Man that I am, who ſhall deliver me from the wrath to come? for my ſins are many, and mine ini<g ref="char:EOLhyphen"/>quity is great; And if the Lord ſhould
+<pb n="2" facs="tcp:100509:3"/> deal with me according to his Justice, and my Deſerts, my Portion must needs be in the Lake of Fire, with the Devil and his Angels. For the Scrip<g ref="char:EOLhyphen"/>ture pronounceth every Man curſed, that continueth not in all things writ<g ref="char:EOLhyphen"/>ten in the Book of the Law to do them,</hi> Gal. 3.10. <hi>Shew me therefore, (I beſeech you) ſhew me, what courſe to take, to come out of this Miſery; ſhew me the way how to get the pardon of my ſin, and the favour of God. I care for nothing but this, neither is there any thing in the World, that I do deſire, in compariſon of this.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This is that (indeed) which of all other things doth moſt con<g ref="char:EOLhyphen"/>cern us. For upon the pardon of our ſins, and peace with God, de<g ref="char:EOLhyphen"/>pends all ſolid comforts while we are here, and the Eternal Salva<g ref="char:EOLhyphen"/>tion
+<pb n="3" facs="tcp:100509:3"/> of our moſt precious ſouls hereafter. And therefore for our better both direction and conſo<g ref="char:EOLhyphen"/>lation in this behalf, let us take notice of this that follows.</p>
+                  <p>There is a way for men to come out of the miſery of ſin, and to obtain and enjoy the mercy and favour of Almighty God, and that is <hi>Faith in Chriſt:</hi> This is the Way, and there is none but this; neither is there any thing in the World, that can help us to the pardon of our ſins, to the love of God, and to the ſalvation of our ſouls, but only <hi>Faith in the Lord Jeſus.</hi>
+                  </p>
+                  <p>That this is the way, is appa<g ref="char:EOLhyphen"/>rent enough by the anſwer which was given by <hi>Paul</hi> and <hi>Silas, Acts</hi> 16.31. For when the Keeper of the Priſon cryed out with trem<g ref="char:EOLhyphen"/>bling, <hi>Sirs, what must I do to be ſa<g ref="char:EOLhyphen"/>ved?</hi> They made him this An<g ref="char:EOLhyphen"/>ſwer,
+<pb n="4" facs="tcp:100509:4"/> 
+                     <hi>Believe in the Lord Jeſus, and thou ſhalt be ſaved.</hi> There is in <hi>Christ</hi> ſufficiency enough, for the obtaining of our pardon, and the procuring of our peace; and there is in Faith ability enough to make us partakers of <hi>Christs</hi> Sufficiency. <hi>Christ</hi> is the onely way whereby we come unto E<g ref="char:EOLhyphen"/>ternal Life, and <hi>Faith</hi> is the onely way whereby we come to be par<g ref="char:EOLhyphen"/>takers of <hi>Christ;</hi> by <hi>Faith</hi> we come unto <hi>Him,</hi> and through <hi>Him</hi> un<g ref="char:EOLhyphen"/>to God.</p>
+                  <p>And that we may the better know, that there is in <hi>Christ</hi> ſuf<g ref="char:EOLhyphen"/>ficiency enough for the pardon of our ſins, and the ſalvation of our ſouls, let us conſider a little both who <hi>Christ</hi> is, and alſo what he hath done for the working out of our deliverance, and the procu<g ref="char:EOLhyphen"/>ring of our peace.</p>
+                  <p>The Lord <hi>Jeſus Christ</hi> is the E<g ref="char:EOLhyphen"/>ternal
+<pb n="5" facs="tcp:100509:4"/> Son of <hi>God,</hi> who pittying that ſinfull and miſerable condi<g ref="char:EOLhyphen"/>tion, whereinto we were all brought by the Diſobedience of our firſt Parents, undertook to mediate the matter betwixt God and us, and to reconcile us again unto God. For the better effect<g ref="char:EOLhyphen"/>ing of which great work, He came down from Heaven, and was Incarnate by the Holy Ghoſt of the Virgin <hi>Mary,</hi> and was made Man, yea in all things like unto other Men, ſave only in Sin, that ſo he might the better make us free from all Sin. Being found thus in faſhion as a Man, he ſet himſelf in our ſtead, and for us Men, and our Salvation, he be<g ref="char:EOLhyphen"/>came obedient unto Death, even the Death of the Croſs. And by his <hi>Obedience</hi> and <hi>Death</hi> He hath perfectly alone by himſelf ac<g ref="char:EOLhyphen"/>compliſhed <hi>whatever</hi> was re<g ref="char:EOLhyphen"/>quiſite
+<pb n="6" facs="tcp:100509:5"/> for our Salvation.</p>
+                  <p>The wretchedneſs of our con<g ref="char:EOLhyphen"/>dition is briefly this: We all like Sheep have gone aſtray, nei<g ref="char:EOLhyphen"/>ther have we only omitted thoſe duties, which the Law requires, but we have alſo committed thoſe evils, which the Law for<g ref="char:EOLhyphen"/>bids; and as the <hi>want of Righteouſ<g ref="char:EOLhyphen"/>neſs</hi> doth exclude us from the fa<g ref="char:EOLhyphen"/>vour of God, and the Kingdome of Heaven: ſo the <hi>Guiltineſs of Sin</hi> doth expoſe us to the Wrath of God, and the Damnation of Hell. But the Lord <hi>Jeſus Christ</hi> hath fulfilled all <hi>Righteouſneſs.</hi> For in his life He performed as much <hi>Obedience,</hi> as the Law in ri<g ref="char:EOLhyphen"/>gour could exact; and by ſuffer<g ref="char:EOLhyphen"/>ing Death upon the Croſs, he un<g ref="char:EOLhyphen"/>der-went as much <hi>Puniſhment,</hi> as could be required of ſinners, in the ſeverity of Juſtice; and ſo by his <hi>Death</hi> and <hi>Obedience</hi> hath
+<pb n="7" facs="tcp:100509:5"/> he provided againſt our double miſery. For by his <hi>Sufferings</hi> up<g ref="char:EOLhyphen"/>on the Croſs, the Juſtice of God is ſatisfied, and his Wrath appea<g ref="char:EOLhyphen"/>ſed; and by his <hi>Obedience,</hi> the Law is fulfilled, and we are Ac<g ref="char:EOLhyphen"/>cepted. And as by his <hi>death</hi> comes the pardon of ſin, and deliver<g ref="char:EOLhyphen"/>ance from wrath: ſo by his <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> comes the imputation of Righteouſneſs, and Life Ever<g ref="char:EOLhyphen"/>laſting. All which, as they were done in our Nature, ſo they were done for us, and in our behalf, he ſtood in the place of ſinners, that we might be numbred among the Righteous; He took our ſins upon him, that he might put his <hi>Obedience</hi> upon us; the Chaſtiſe<g ref="char:EOLhyphen"/>ment of our Peace was upon him, that with his ſtripes we may be healed; He was made a Curſe for us, that he might Redeem us from it; He was made Sin for
+<pb n="8" facs="tcp:100509:6"/> us, that knew no Sin, that we might be made the Righteouſ<g ref="char:EOLhyphen"/>neſs of God in Him, 2 <hi>Cor.</hi> 5.22.</p>
+                  <p>And the better to aſſure us that by his Death upon the Croſs, there was paid a price ſufficient enough for the procuring of our pardon, he Aroſe again from the Dead; which he could not have done, if the Juſtice of God had not been ſatisfied to the very full in every particular. For as Sin is the ſting of Death, and the on<g ref="char:EOLhyphen"/>ly thing that makes Death Ter<g ref="char:EOLhyphen"/>rible: ſo it is the ſtrength of Death, and it is that only that doth give Death dominion over us: Sin is the Lock, Bar, and Bolt, that makes faſt the Gates of Death; and as the door cannot be opened to let out a Priſoner, till the Bar be removed; ſo there is no eſcaping from Death, until
+<pb n="9" facs="tcp:100509:6"/> Sin be taken out of the way. <hi>Chriſt</hi> therefore by Riſing from the Dead, hath mightily decla<g ref="char:EOLhyphen"/>red unto us, that he hath paid the utmoſt Farthing of our Debts, and that by his Death he hath fully ſatisfied the Juſtice of God. So that now, by virtue of his ſuf<g ref="char:EOLhyphen"/>ferings, the <hi>greatest</hi> ſins are made pardonable, and there is a way ſet open for the <hi>worst</hi> ſinners, both to Grace and Glory. <hi>I ſay,</hi> even for the <hi>worst</hi> ſinners. There is <hi>no man</hi> now that can deny him<g ref="char:EOLhyphen"/>ſelf to be <hi>capable</hi> of Grace; there are too many, who from the greatneſs of Gods mercy, do without any cauſe preſume to ſin: But there is no man, who from the heinouſneſs of his ſins, hath any juſt cauſe to deſpair of mercy; For though our ſins be many, yet the mercies of God are more; though they be great,
+<pb n="10" facs="tcp:100509:7"/> yet his mercies are above them; He is rich in mercy, yea, his mercy is infinite, ſo that though he have ſpent much mercy al<g ref="char:EOLhyphen"/>ready upon our Fore-Fathers, yet he hath mercy enough in ſtore for us alſo; with him there is plenty of forgiveneſs, and his mercy endureth for ever: And the merits of <hi>Christ</hi> are of the ſame nature, for he is <hi>Mighty to ſave,</hi> and he is the <hi>ſame for ever,</hi> and through the riches of theſe merits of <hi>Christ,</hi> there is a way ſet open, even for the <hi>worſt ſinners,</hi> to become partakers of the riches of the mercies of God. Now if <hi>any man</hi> ſin, we have an Advocate with the Father, <hi>Jeſus Christ</hi> the Righteous, and he is the propi<g ref="char:EOLhyphen"/>tiation for our ſins, <hi>&amp;c.</hi> 1 <hi>John</hi> 2.1, 2. And though the time of his abode upon Earth in the day, of his fleſh were but ſhort, though
+<pb n="11" facs="tcp:100509:7"/> his ſufferings were but for a ſea<g ref="char:EOLhyphen"/>ſon; yet ſuch was, and is the dignity of his perſon, (being the Eternal Son of God) that his <hi>Suf<g ref="char:EOLhyphen"/>ferings</hi> and <hi>Obedience</hi> are <hi>infinitely meritorious,</hi> and his blood is able to clenſe us from <hi>all</hi> unrighteouſ<g ref="char:EOLhyphen"/>neſs: So that we may well ſay with the Apoſtle, <hi>Who is he that condemneth? It is Christ that dyed, or rather who is riſen again, and now maketh Interceſsion for us, Rom.</hi> 8.33, 34. But let no man turn this doctrine of comfort to a liberty of ſinning: againſt the <hi>greatest ſins</hi> there is hopes in <hi>Christ</hi> for <hi>pe<g ref="char:EOLhyphen"/>nitent Believers.</hi> But becauſe there is mercy with God, ſhall we therefore go on in ſin? God forbid; there is mercy with him, and therefore he muſt be feared. But if any man ſhall preſume to ſin, becauſe there is mercy with God, through <hi>Jeſus Christ;</hi> in<g ref="char:EOLhyphen"/>ſtead
+<pb n="12" facs="tcp:100509:8"/> of mercy, that man is like to meet with nothing but Ju<g ref="char:EOLhyphen"/>ſtice: For as mercifull as God is, and as all-ſufficient as the Death of <hi>Christ</hi> is, there is no mercy for ſuch as go on ſtill in their wickedneſs.</p>
+                  <p>And thus you ſee that <hi>Christ</hi> is mighty enough to ſave us from all our ſins, and to reconcile us unto <hi>God:</hi> Now that we may have benefit by this ſufficiency of <hi>Christ,</hi> we muſt lay hold upon it by a lively faith. This is that which unites us unto <hi>Chriſt,</hi> and makes us one with him; This is that which gives us intereſt in him, and makes us partakers of his merits; This makes the <hi>death</hi> and <hi>obedience</hi> of <hi>Christ</hi> as verily our own, and as effectual for the pardon of our ſins, and the ſalva<g ref="char:EOLhyphen"/>tion of our ſouls, as if they had been performed by our very
+<pb n="13" facs="tcp:100509:8"/> ſelves. So that if we do truly <hi>Believe in the Lord Jeſus,</hi> then is <hi>God</hi> well pleaſed with us for his ſake; and by virtue of his merits being made ours by faith, our ſins are all pardoned, and our ſouls and bodies ſhall be Eter<g ref="char:EOLhyphen"/>nally ſaved. And ſo much the Scripture doth plainly teſtifie in ſeveral places. As <hi>John</hi> 3.16. <hi>God</hi> ſo loved the World, that he gave his onely begotten Son, that <hi>whoſoever believeth in him,</hi> ſhould not periſh, but have Life Ever<g ref="char:EOLhyphen"/>laſting. And again, <hi>Acts</hi> 10.43. Through his Name, <hi>whoſoever be<g ref="char:EOLhyphen"/>lieveth in him,</hi> ſhall receive Re<g ref="char:EOLhyphen"/>miſſion of Sins, (be they never ſo many, never ſo heinous.) And again, <hi>Acts</hi> 13.38, 39. Be it known unto you, that <hi>through this Man</hi> is Preached unto you the Forgiveneſs of Sins. And <hi>by him all that believe</hi> are juſtified
+<pb n="14" facs="tcp:100509:9"/> from all thoſe things, from which they could not be juſtified by the Law of <hi>Moſes.</hi> By the Law of <hi>Moſes</hi> we could never have been acquitted either from the <hi>Guilti<g ref="char:EOLhyphen"/>neſs of Sin, or from the Wrath of God:</hi> But we are delivered from <hi>both, by Faith in Christ;</hi> for by it we ob<g ref="char:EOLhyphen"/>tain the forgiveneſs of our ſins, and the ſalvation of our ſouls.</p>
+                  <p>And thus it is manifeſt, <hi>That</hi> Chriſt <hi>is the Way by which we are to obtain the pardon of ſin, and peace with God; and that</hi> Faith <hi>is the way whereby we are made partakers of the merits of</hi> Chriſt <hi>for our Juſtification and Salvation.</hi> Proceed we now in a word, to ſhew that <hi>nothing but Christ</hi> can reconcile us unto <hi>God,</hi> and that <hi>nothing but Faith</hi> can make us partakers of <hi>Chriſt</hi> for our Reconciliation.</p>
+                  <p>There is no way whereby to come unto <hi>God,</hi> but <hi>onely Chriſt:</hi>
+                     <pb n="15" facs="tcp:100509:9"/> It is onely in <hi>Chriſt</hi> that <hi>God</hi> is well pleaſed; neither is there ſalvation in any other. For there is no other Name under the Hea<g ref="char:EOLhyphen"/>ven given among men, whereby we muſt be ſaved, <hi>Acts</hi> 4.12. Neither is there any other means on our part, whereby to receive <hi>Chriſt,</hi> but <hi>onely Faith;</hi> And yet unleſs we do receive him, we get no benefit by him; and therefore unleſs we do believe in him, we ſhall periſh in our ſins. And to this purpoſe ſpeaks our Saviour, <hi>John</hi> 3.36. <hi>He that believeth on the Son hath Everlaſting Life; and he that believeth not the Son, ſhall not ſee Life, but the Wrath of God abi<g ref="char:EOLhyphen"/>deth on him.</hi> See the ſumm of all this, in that place of St. <hi>John,</hi> 1 <hi>Epiſt.</hi> 5. <hi>Chap.</hi> 11, 12, and 13 <hi>Verſes: God</hi> hath given to us E<g ref="char:EOLhyphen"/>ternal Life, and this Life is in his Son. He that hath the Son, hath
+<pb n="16" facs="tcp:100509:10"/> Life; and he that hath not the Son, hath not Life. Theſe things have I written to you, that be<g ref="char:EOLhyphen"/>lieve in the Name of the Son of <hi>God,</hi> that ye may know that ye have Eternal Life, and that ye may believe in the Name of the Son of <hi>God.</hi> By which place it is plain, that there is a way to Life; that <hi>Chriſt</hi> is the way to it; that Life is ſo in him; that it is in no other but him; that it is ſo in him, that by believing in him we obtain Life, and that it is ſo in him, that without believing in him, we get no benefit at all by him. And thus you have the truth of the former Anſwer En<g ref="char:EOLhyphen"/>larged and Confirmed, according to it's ſeverall Branches; by which it is manifeſt, <hi>That Faith in the Lord Jeſus Chriſt, and nothing elſe but onely Faith in him,</hi> can help us to the pardon of ſin, the Love
+<pb n="17" facs="tcp:100509:10"/> of God, and the Salvation of our Souls.</p>
+                  <p>Hereupon it may be thus re<g ref="char:EOLhyphen"/>plyed.</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>The Second Queſtion.</head>
+               <p>
+                  <hi>IF I cannot obtain the pardon of my ſins, and the Favour of God, with<g ref="char:EOLhyphen"/>out</hi> Faith <hi>in</hi> Chriſt, <hi>I doubt my con<g ref="char:EOLhyphen"/>dition is woful, and that I am yet in my ſins, and liable unto wrath. For I fear that I have not this Faith in</hi> Chriſt, <hi>and that I do not as yet be<g ref="char:EOLhyphen"/>lieve in him. Shew me therefore (I pray you) how I may be comforted againſt this fear, and how I may know whether I do believe in</hi> Chriſt, <hi>Yea, or No?</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Doutleſs if we do not believe in <hi>Chriſt,</hi> our condition is woful:
+<pb n="18" facs="tcp:100509:11"/> For there is no ſalvation <hi>in any other;</hi> and without <hi>Faith</hi> in him, we get no benefit by him, but we are in our ſins, and the obligation unto wrath is in full power and force againſt us. For though the ranſome, which Chriſt paid by his Death upon the Croſs, be a ranſome abundantly ſufficient for the ſins of the <hi>whole World;</hi> yet the benefit of that Death of his is beſtow'd on none, but upon ſuch conditions as <hi>God</hi> himſelf plea<g ref="char:EOLhyphen"/>ſeth; which conditions, for ſuch as be of years, are <hi>Faith</hi> and <hi>Re<g ref="char:EOLhyphen"/>pentance;</hi> which if we want, we ſhall be ſure to periſh in our ſins, not out of any defect in <hi>Chriſt,</hi> but onely becauſe we want thoſe conditions, whereby we come to have intereſt in him, and to be partakers of his Merits. Now that we may the better know whether we have this Faith in us
+<pb n="19" facs="tcp:100509:11"/> yea, or no, (and ſo neither be deceiv'd with vain hopes, nor yet diſcomforted with falſe fears,) conſider this which follows, and ſee what Anſwer you can make to theſe ſeveral demands.</p>
+                  <p>Are you ſenſib<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of the miſery wherein you are by reaſon of your ſins? And do you finde that you need a Saviour? Do you know who is the Saviour of the World? Do you know in ſome good meaſure who Chriſt is, and what he hath done for us, and what the benefits that are to be had by him? Do you know what a neceſſity there is of having of him, and what a miſery it is to be without him, and what we muſt do, if we would have any benefit by him? And do you verily <hi>be<g ref="char:EOLhyphen"/>lieve</hi> that <hi>Chriſt Ieſus;</hi> and none but he, is the Saviour of the World, and that he hath both
+<pb n="20" facs="tcp:100509:12"/> done and ſuffered, as the Scrip<g ref="char:EOLhyphen"/>tures Teſtifie of him? Do you verily believe that there is no way to Heaven but Chriſt, that there is no way to get Chriſt but Faith, and that there is no part to be had in him, but by renoun<g ref="char:EOLhyphen"/>cing all other Lords, and all o<g ref="char:EOLhyphen"/>ther Saviours, and by adhering <hi>wholly</hi> unto him for all our Conſo<g ref="char:EOLhyphen"/>lation and Salvation? And do you now <hi>Deſire from the heart</hi> to be made partaker of Chriſt? and do you ſincerely endeavour to accept of him, and to embrace him? And can you be content for his ſake, to forſake all things, and to undergo any miſery, ra<g ref="char:EOLhyphen"/>ther then to part with him? Can you be content to take him (as we ſay) <hi>for better for worſe,</hi> and not onely for your <hi>Ieſus,</hi> to ſave you from your ſins, but alſo for your <hi>Lord,</hi> to command and diſ<g ref="char:EOLhyphen"/>poſe
+<pb n="21" facs="tcp:100509:12"/> of you at his pleaſure? And is it your care to know his <hi>Will?</hi> And is it your endeavour to yield him an <hi>Univerſal Obedience?</hi> And is it your practiſe in obedi<g ref="char:EOLhyphen"/>ence unto him, to exerciſe your ſelf to keep a Conſcience void of offence both toward <hi>God,</hi> and to<g ref="char:EOLhyphen"/>ward <hi>Men,</hi> and conſtantly and conſcionably to deny all ungod<g ref="char:EOLhyphen"/>lineſs and worldly luſts, and to live godly, and righteouſly, and ſoberly in this preſent world? Do you thus <hi>Accept</hi> of Chriſt, and <hi>Submit</hi> unto him? Nay, is it your <hi>hearty deſire, and unfained en<g ref="char:EOLhyphen"/>deavour</hi> ſo to do? Then you may be ſure that you have ſome de<g ref="char:EOLhyphen"/>grees of True Faith in <hi>Ieſus Christ,</hi> and therefore that <hi>Christ</hi> is yours, that <hi>God</hi> is yours, that <hi>All</hi> is yours. For this is ſuch a qua<g ref="char:EOLhyphen"/>lification as hath the promiſe, both of the Life that now is, and
+<pb n="22" facs="tcp:100509:13"/> alſo of that, that is to come.</p>
+                  <p>By the Queſtions we may ex<g ref="char:EOLhyphen"/>amine our condition. For after this manner is Faith wrought in us; Such are the preparatives, ſuch is the nature, and ſuch are the effects of a True Faith, as are implyed in theſe queſtions; So that if we can in ſome good mea<g ref="char:EOLhyphen"/>ſure make underſtanding and af<g ref="char:EOLhyphen"/>fectionate anſwers to them all; Then we may be ſure that we have a True Faith in <hi>Christ:</hi> But if either we know him not, or deſire not to accept of him, or care not to obey him, we have then cauſe to think that we do not believe in him; and if we think otherwiſe, we do but de<g ref="char:EOLhyphen"/>ceive our ſouls.</p>
+                  <p>Now if upon examination had, we finde that we want Faith, we muſt be diligent in uſing the means whereby to get it, which
+<pb n="23" facs="tcp:100509:13"/> is by reading and hearing of the Word of God, and conferring about it. For Faith cometh by hearing, and hearing by the Word. If we finde that we have this Faith, we muſt be careful to keep it, and to increaſe it, by the Word, by the Sacraments, and by Prayer.</p>
+               </div>
+            </div>
+            <div n="3" type="question">
+               <head>The Third Queſtion.</head>
+               <p>
+                  <hi>UPon this that hath been ſpoken, another queſtion may be raiſed to this purpoſe. I do in ſome meaſure know who</hi> Chriſt <hi>is, and I do believe that he is a Saviour All-ſufficient, and that there is no other way to Sal<g ref="char:EOLhyphen"/>vation, but Him, and that whoſoever believeth in him ſhall not Periſh: and I my ſelf would fain believe in him. But how may I know that I have right to believe in him, and that the invi<g ref="char:EOLhyphen"/>tations to Faith do concern me? How
+<pb n="24" facs="tcp:100509:14"/> may I know whether I ſhould be wel<g ref="char:EOLhyphen"/>come, or not, if I ſhould be ſo bold as to come unto him?</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>For our encouragement here<g ref="char:EOLhyphen"/>in, and that we may come the more boldly unto the Throne of Grace, we muſt know, that <hi>Chriſt</hi> is a Common Saviour, he is the Saviour of the World; and in regard of the All-ſufficiency of his merits, there is not one of thoſe, whoſe nature he took, un<g ref="char:EOLhyphen"/>to whom his merits are not com<g ref="char:EOLhyphen"/>municable; neither is there any one, who in that reſpect may not truly be ſaid to be ſavable. <hi>The Promiſe is made to You, and to your Children, and to all that be afar off, even as many as the Lord our God ſhall call, Acts</hi> 2, 39. Now if you de<g ref="char:EOLhyphen"/>ſire to know, whether you be one
+<pb n="25" facs="tcp:100509:14"/> of thoſe, whom he doth call to believe in him; conſider then whether or no, you be ſenſible of your miſery, and burdened with your ſins; whether your deſire be to be eaſed of your ſins, and to be partaker of Chriſt, and of thoſe benefits and comforts that be in him. For if we be thus qualified, we may be confident that we are of the number of thoſe, whom he doth ſeriouſly in<g ref="char:EOLhyphen"/>vite to come unto him, and to depend upon him. And hereof you have a witneſs in your ſelf, and Gods own hand to ſhew for it, to your greater comfort. For theſe are his own words: Come unto me <hi>all ye that labour and be heavy laden,</hi> and I will give you reſt, <hi>Mat.</hi> 11.28. And again, <hi>If any man thirſt,</hi> let him come un<g ref="char:EOLhyphen"/>to me and drink, <hi>Iohn</hi> 7.37. Un<g ref="char:EOLhyphen"/>to ſuch <hi>thirſty ſouls</hi> was Chriſt
+<pb n="26" facs="tcp:100509:15"/> ſent, he came to ſpeak peace to ſuch as are <hi>weary,</hi> and <hi>broken-heart<g ref="char:EOLhyphen"/>ed,</hi> and to ſet at liberty ſuch as are <hi>bruiſed.</hi> So that if we, find<g ref="char:EOLhyphen"/>ing what a miſery it is to be in ſin, and to want a Saviour, have thereupon an earneſt deſire to be delivered from this miſery, we may be as ſure, that he calls upon us to come unto him, as if our very Names were ſpecified in theſe invitations: Being thus qualified, we may come boldly, and upon our coming ſhall be ſure to finde Reſt; But without this badge we have no warrant at all to expect a welcome. <hi>They that do thus hunger and thirſt after Righteouſneſs ſhall be filled; but they that be rich</hi> in their own conceits, and are not ſenſible of any wants, <hi>theſe he ſends empty away.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="question">
+               <pb n="27" facs="tcp:100509:15"/>
+               <head>The Fourth Queſtion.</head>
+               <p>
+                  <hi>BUt if I finde that I want this ſor<g ref="char:EOLhyphen"/>row, what courſe ſhould I take, to bring my heart to be humbled for my ſins.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>To this end let a Man examine himſelf by the Law of God. For by the Law is the knowledge of ſin. And let him duly think up<g ref="char:EOLhyphen"/>on that fearfull Curſe of God, whereunto every the leaſt ſin doth make us liable. Let him diligently conſider, how ugly and lothſome ſin doth make us in the ſight of God, and what a fearfull thing it is to be deprived of the Love of God, and the Joyes of Heaven, and what a miſery it is to be expoſed to the wrath of
+<pb n="28" facs="tcp:100509:16"/> God, and the torments of Hell. Let him ſeriouſly ponder what a miſery it is to loſe the Soul. Let him throughly weigh the nature of Eternity, and the ſtrictneſs of that Account that is to come; and the ſeverity of that ſentence, which in that laſt and dreadfull Day ſhall be pronounced upon all impenitent ſinners, when they ſhall be adjudged to that Ever<g ref="char:EOLhyphen"/>laſting Fire, which is prepared for the Devil and his Angels. All theſe are of ſingular uſe to wound our ſouls, and to affect our hearts with ſorrow for our ſins. It is the Law that makes way for the Goſpel: For thus <hi>John</hi> the Baptiſt by denouncing the judgments of God upon wic<g ref="char:EOLhyphen"/>ked courſes, prepared the way for our Bleſſed Saviour. But eſpecially, let him conſider how great things' God hath done for
+<pb n="29" facs="tcp:100509:16"/> him. For as there is no greater obligation to obedience, then the loving kindneſs of the Lord: So there is nothing that doth more aggravate our ſins, and ſo conſe<g ref="char:EOLhyphen"/>quently our miſery; And there<g ref="char:EOLhyphen"/>fore nothing that can tend more to the breaking of the heart, then the conſideration of the bounty, and long ſuffering of God to us<g ref="char:EOLhyphen"/>ward. And this plainly appears by that courſe which the Prophet <hi>Nathan,</hi> at the Lord's appoint<g ref="char:EOLhyphen"/>ment took with <hi>David,</hi> 2 <hi>Sam.</hi> 12. For by fetting before his eyes <hi>Gods</hi> many and wonderfull mercies vouchſafed, and his own extream ingratitude, and ill re<g ref="char:EOLhyphen"/>quital of ſo great goodneſs, he was conſtrained to cry out with ſhame and ſorrow, <hi>I have ſinned againſt the Lord.</hi>
+                  </p>
+                  <p>And amongſt all the mercies of God, there is none that doth
+<pb n="30" facs="tcp:100509:17"/> more deſerve to take up all our thoughts, then that departure of Chriſt, which he accompliſhed at <hi>Jeruſalem;</hi> Neither is there any thing that doth more tend, either to preſerve us from ſin, or to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umble us for our failings, then the death of our Saviour.</p>
+                  <p>For ſuppoſe the Lord Jeſus ſhould preſent himſelf unto us, when we are about to commit any ſin, or after we have done it, as he was hanging upon the Croſs, with his ſides ſcourged, his face buffetted, his hands and feet nailed, his head crowned with Thorns, his very heart pier<g ref="char:EOLhyphen"/>ced, his whole body upon the rack, and trickling down with drops of blood, and ſpeaking un<g ref="char:EOLhyphen"/>to us after this, or the like man<g ref="char:EOLhyphen"/>ner: <q rend="inline">Behold, if ever ſorrows were like unto my ſorrows; And yet all this was but the pu<g ref="char:EOLhyphen"/>niſhment
+<pb n="31" facs="tcp:100509:17"/> of thy ſins. It is thy ſins that have brought me to all theſe torments; and canſt thou delight in that which was the cauſe of ſuch miſery? All this have I done for thy good, and is this the requital of my Love? I have born thy ſins, that thou might'ſt be eaſed; mine hands were bound, that thine might be freed; my ſides were ſcour<g ref="char:EOLhyphen"/>ged, that thine might be ſpa<g ref="char:EOLhyphen"/>red; my cheeks were buffet<g ref="char:EOLhyphen"/>ted, that thine might be kiſt: my head was crowned with thorns, that thine might be crowned with glory; and is this thy kindneſs to thy friend, thus to return me hatred for my good will? Haſt thou not put me to pains enough al<g ref="char:EOLhyphen"/>ready, but that thou muſt rake in my wounds, and make a ſport of my miſery? Or if thou
+<pb n="32" facs="tcp:100509:18"/> wilt not pitty me, yet pitty thy ſelf. For can that be light to thee, which coſt me ſo heavy? Or ſhalt thou eſcape the cup, that art a ſinner, when my be<g ref="char:EOLhyphen"/>loved Father would not ſpare me that was but a Surety?</q>
+                  </p>
+                  <p>Suppoſe (I ſay) that the Lord <hi>Jeſus</hi> ſhould preſent himſelf and ſpeak unto us, after this or the like manner, would not ſuch a ſight make our bowels to yearn, and ſuch words cut us to the very heart? Doubtleſs it were enough to make the dryeſt eyes to wiſh for tears of blood, and the hard<g ref="char:EOLhyphen"/>eſt heart of the moſt obſtinate ſin<g ref="char:EOLhyphen"/>ner, to become in the midſt of his body, like melting wax, thus to hear, and to look upon him whom they have pierced: Yea it is im<g ref="char:EOLhyphen"/>poſſible for any man to think on this, and to go on in ſin, but ſuch as could be content to Cru<g ref="char:EOLhyphen"/>cifie
+<pb n="33" facs="tcp:100509:18"/> again the Lord of Glory.</p>
+                  <p>And thus you ſee, what are the chiefeſt helps to humiliation, and by what means our hearts may be brought to be deeply affected with ſorrow for our ſins.</p>
+                  <p>Hereupon a timorous heart will be ready to reply yet further after this manner.</p>
+               </div>
+            </div>
+            <div n="5" type="question">
+               <head>The Fifth Queſtion.</head>
+               <p>
+                  <hi>BY this courſe, and by theſe, and the like Meditations, I confeſs that I have been brought in ſome mea<g ref="char:EOLhyphen"/>ſure to be ſorry for my ſins, and now I would fain be eaſed of them; And it is my deſire to believe in</hi> Chriſt, <hi>but I fear that as yet I am not enough</hi> humbled; <hi>I fear I have not</hi> ſo great meaſure <hi>of ſorrow, as may make me capable of this invitation; And my heart is ſo hardned, that I cannot grieve and mourn for my ſins
+<pb n="34" facs="tcp:100509:19"/> ſo much as I ſhould, and would do; and therefore I fear, that as yet I have no right to the comforts of the Goſpel.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>True it is, that ſorrow for ſin makes ready an heart prepared for the <hi>Lord;</hi> and as uſually in the courſe of Nature, there is no birth without ſome pain: So in the work of Grace, there is no re<g ref="char:EOLhyphen"/>generation, (that of Infants in Baptiſme excepted,) without ſome ſorrow. But as there are degrees of pain in the Natural birth: So in the Spiritual birth, there are degrees of ſorrow. Some Women have a quick Diſpatch, others have a more tedious Tra<g ref="char:EOLhyphen"/>vel: And ſo it is in the New Birth, all are not pained alike. Some there be that go mourning all the day long, yea day after day,
+<pb n="35" facs="tcp:100509:19"/> whereas unto others, heavineſs indures but as it were for a night, and joy cometh in the morning. We muſt know therefore, and that for our comfort, that it is not the <hi>quantity,</hi> but the <hi>quality</hi> of ſorrow, that God looks after; neither matters it ſo much, how great our ſorrow be, as how true it is.</p>
+                  <p>If a Youth, upon due exami<g ref="char:EOLhyphen"/>nation had, be found fit for the Univerſity, his Tutor never de<g ref="char:EOLhyphen"/>mands how long he hath been at School, how harſhly he hath been dealt withall, how often he hath been whipt, before he could come to that perfection; All that he looks after is, whether or no he be fit to be admitted: So it fares with us; The Law is our School-Maſter to bring us unto Chriſt; And this it doth, partly by diſco<g ref="char:EOLhyphen"/>vering unto us our ſins, whereby
+<pb n="36" facs="tcp:100509:20"/> we ſee that we need a Saviour; and partly by threatning of us with the curſe, whereby we are made more carefull to look out after this Saviour, and more wil<g ref="char:EOLhyphen"/>ling to accept of him, and for our own eaſe to ſubmit unto him, when once we have found him. Now when we can be content to accept of <hi>Chriſt</hi> upon any terms, then are we ready for him, then are we fit to be admitted into him. And when we do ſeek un<g ref="char:EOLhyphen"/>to <hi>Chriſt</hi> for this admiſſion, he re<g ref="char:EOLhyphen"/>gards not ſo much, how long we were at School under the Law, how often we were laſhed by it, or how ſorely we have ſmarted under it: But all that he looks after is, whether we be fit to come unto him. Conſider therefore with your ſelf, had you ever ſuch a ſight and ſorrow for your ſins, as made you weary of them; and
+<pb n="37" facs="tcp:100509:20"/> out of love with them; and wil<g ref="char:EOLhyphen"/>ling to be eaſed of them; and de<g ref="char:EOLhyphen"/>ſirous of Intereſt in <hi>Christ,</hi> and ready to accept of <hi>Chriſt</hi> upon any Terms, rather then to goe without him? Is it your grief that you cannot be more ſorrow<g ref="char:EOLhyphen"/>full, and do not you deſire as much to be kept from ſin for the time to come, as to have all that pardoned that is paſt? Surely, if you ſtand thus affected, then are you fitted, and made ready for <hi>Chriſt;</hi> and whether your ſorrow were great or little, yet it is a to<g ref="char:EOLhyphen"/>ken, that it was a true and a god<g ref="char:EOLhyphen"/>ly ſorrow, becauſe it worketh re<g ref="char:EOLhyphen"/>pentance unto ſalvation, never to be repented of.</p>
+                  <p>It may be yet further objected, Thus:</p>
+               </div>
+            </div>
+            <div n="6" type="question">
+               <pb n="38" facs="tcp:100509:21"/>
+               <head>The Sixth Queſtion.</head>
+               <p>I <hi>Confeſs that I have been grieved for my ſins, and I have been de<g ref="char:EOLhyphen"/>ſirous to believe in</hi> Chriſt: <hi>But I fear that my Sorrow is not good, nor my Faith ſound, becauſe my obedience is ſo faulty: For I am not ſo willing to forſake all my ſins, nor ſo carefull to yield</hi> Chriſt <hi>Obedience, as I ſhould be; or if I am willing ſo to do, yet mine infirmities, and my failings are ſuch, and ſo many, that I fear my ſor<g ref="char:EOLhyphen"/>row, and my faith, are not ſuch as they ought to be.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Certain it is, that ſorrow for ſin will nothing avail us without amendment of Life; The wicked muſt <hi>forſake</hi> his wayes, if he ex<g ref="char:EOLhyphen"/>pect pardon, <hi>Iſa.</hi> 55.7. And it is
+<pb n="39" facs="tcp:100509:21"/> he that confeſſeth his ſins, and <hi>for<g ref="char:EOLhyphen"/>ſaketh them,</hi> that ſhall find mercy, <hi>Prov.</hi> 28.13. If we willingly allow our ſelves in the practice of <hi>any thing</hi> diſpleaſing unto <hi>God,</hi> our condition is dangerous. If we ſay that we abide in <hi>Chriſt,</hi> we muſt walk as he walked, or elſe we deceive our own ſouls, 1 <hi>John</hi> 2.6. If we ſay that we have fel<g ref="char:EOLhyphen"/>lowſhip with <hi>God,</hi> and yet walk in darkneſs, we lye, and the truth is not in us, 1 <hi>John</hi> 1.6. And if it be not our ſtudy and exerciſe to yield <hi>Chriſt</hi> an Univerſal Obedi<g ref="char:EOLhyphen"/>ence, our Faith is but Preſump<g ref="char:EOLhyphen"/>tion; our Peace is but Security; our Hopes are but Shadows; and our Expectation will Periſh.</p>
+                  <p>But if we have <hi>an hearty deſire, and a ſincere endeavour in all things to live honeſtly,</hi> we may not from our failings and imperfections, preſently conclude that we are
+<pb n="40" facs="tcp:100509:22"/> not ſanctified at all, that we have no Faith, no Intereſt in <hi>Chriſt,</hi> no love of <hi>God</hi> in us. For perfe<g ref="char:EOLhyphen"/>ction is not to be attained unto, while we be in the body; But <hi>ſincerity</hi> is that which may be had, and affords unto us matter of comfort; For the Lord loves them that do <hi>follow after Righteouſ<g ref="char:EOLhyphen"/>neſs, Pro.</hi> 15.9. And they whoſe ſincere deſire and endeavour it is to have reſpect to all the com<g ref="char:EOLhyphen"/>mandments, are accepted of him. If it be our unfained deſire, ſtudy and endeavour, in Obedience un<g ref="char:EOLhyphen"/>to <hi>Chriſt,</hi> to do whatſoever he commandeth; If it be our care to cleanſe our ſelves from all fil<g ref="char:EOLhyphen"/>thineſs both of Fleſh and Spirit, and to perfect Holineſs in the fear of God, and not wickedly to de<g ref="char:EOLhyphen"/>part from him in any thing: I ſay, if it be our unfained deſire, ſtudy and endeavour ſo to do, we
+<pb n="41" facs="tcp:100509:22"/> may ſafely conclude, notwith<g ref="char:EOLhyphen"/>ſtanding all our imperfections, that our ſorrow is good, and our faith ſound, and that our ſins are pardonable, and our ſervice is ac<g ref="char:EOLhyphen"/>cepted, and our ſouls ſhall be ſa<g ref="char:EOLhyphen"/>ved. For in <hi>Gods</hi> account, and acceptation, that goes for a <hi>clean life</hi> which is not ſtained with <hi>wil<g ref="char:EOLhyphen"/>full pollutions,</hi> and whoſe obedi<g ref="char:EOLhyphen"/>ence is extended to the utmoſt of his knowledge, and hath withall a purpoſe to amend what <hi>God</hi> ſhall hereafter make him know to be ſinfull; to that man is al<g ref="char:EOLhyphen"/>lowed the opinion of gracious.</p>
+                  <p>See further of this point in An<g ref="char:EOLhyphen"/>ſwer to Objection 16.</p>
+               </div>
+            </div>
+            <div n="7" type="question">
+               <head>The Seventh Queſtion.</head>
+               <p>
+                  <hi>IF theſe things be ſo, I find then that my condition at the preſent is good; And, if I were ſure to dye in this
+<pb n="42" facs="tcp:100509:23"/> Eſtate, I make no doubt but I ſhould be happy. But I fear that I ſhall not continue in this Condition; For my Enemies are Many, and Mighty, and Crafty, and Watchfull, and I myſelf am prone to Sin, and apt to fall from my own Steadfaſtneſs; And I finde by experience, that many who have be<g ref="char:EOLhyphen"/>gun in the Spirit, have ended in the Fleſh, and their latter Ends have been worſe then their Beginnings. This makes me to fear that I ſhall not con<g ref="char:EOLhyphen"/>tinue faithfull unto the death; And yet without this continuance, I ſhall never Obtain the Crown of Life.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>All theſe things I confeſſe are true; ſuch are our Enemies, ſuch is our Weakneſs; and the Mi<g ref="char:EOLhyphen"/>ſery of thoſe that do turn back from the Holy Commandment given unto them, is ſuch, that it
+<pb n="43" facs="tcp:100509:23"/> had been better for them not to have known the way of Truth, 2 <hi>Pet.</hi> 2.21. For they ſhall loſe thoſe things that they have done, and their portion ſhall be with unbelievers. So that a Man can<g ref="char:EOLhyphen"/>not chuſe but have cauſe to fear. Nevertheleſs, there is comfort in <hi>God</hi> againſt this fear alſo; Yea, <hi>This very fear of Falling Away,</hi> hath in it matter of conſolation, for it is a means to keep us from de<g ref="char:EOLhyphen"/>parting from <hi>God, Ier.</hi> 32.40. <hi>And I will make an Everlaſting Co<g ref="char:EOLhyphen"/>venant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they ſhall not depart from me.</hi>
+                  </p>
+                  <p>Many there be, that having be<g ref="char:EOLhyphen"/>gun well, do yet at length grow weary of well doing, and ſo loſe what they have done; And there<g ref="char:EOLhyphen"/>fore let him that thinketh that he ſtandeth, take heed leaſt he fall:
+<pb n="44" facs="tcp:100509:24"/> But yet let not our hearts be trou<g ref="char:EOLhyphen"/>bled, let us not be diſmayed with fear; for the perſeverance of ſuch as are <hi>juſtified and ſanctified in deed and in truth,</hi> is certain, and the foundation of <hi>God</hi> ſtandeth ſure, the <hi>Lord</hi> knoweth who are his, and he knoweth how to de<g ref="char:EOLhyphen"/>liver them out of Temptation. In further Anſwer to this Obje<g ref="char:EOLhyphen"/>ction, and the better to comfort us againſt this fear, take ſpecial notice of theſe Texts of Scrip<g ref="char:EOLhyphen"/>ture, 1 <hi>Pet.</hi> 1.5. <hi>Who are kept by the Power of God through Faith unto Salvation, ready to be revealed in the laſt time.</hi> John 10.27, 28, 29. <hi>My Sheep hear my Voice, and I know them, and they follow me. And I give unto them Eternal Life, and they ſhall never Periſh, neither ſhall any Man pluck them out of my hand. My Father which gave them me, is greater then all: And no Man is
+<pb n="45" facs="tcp:100509:24"/> able to pluck them out of my Fathers hand.</hi> 2 Chro. 16.9. <hi>For the eyes of the Lord run to and fro throughout the whole Earth, to ſhew himſelf ſtrong in the behalf of them whoſe heart is perfect towards him.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="8" type="question">
+               <head>The Eighth Queſtion.</head>
+               <p>
+                  <hi>BUt if the Perſeverance, and ſo Salvation of ſuch as are</hi> in deed and in truth <hi>the Saints of God, be ſo ſure and certain, what mean thoſe frequent caveats which we meet with in the Scripture? What mean thoſe frequent exhortations to Perſe<g ref="char:EOLhyphen"/>verance?</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Perſeverance of ſuch is ſure and certain, howbeit <hi>God</hi> brings it to paſs by means; It is wrought in them by <hi>God,</hi> and yet
+<pb n="46" facs="tcp:100509:25"/> their own endeavours alſo are re<g ref="char:EOLhyphen"/>quired; And theſe Caveats and exhortations are the means which God hath ſanctified for the exci<g ref="char:EOLhyphen"/>ting of their endeavours, and for their preſervation from Apoſtacy.</p>
+                  <p>Caveats we have many, and many Threatnings; Exhortati<g ref="char:EOLhyphen"/>ons many, and many Promiſes; ſuch as are, <hi>Take heed to your ſelves. Watch in all things. Be ſteadfaſt and unmovable, continue faithfull unto the Death, and I will give thee the Crown of Life. The latter end of back-ſliders ſhall be worſe then their beginning,</hi> &amp;c. By which, and other like paſſages, we are not to think either that perſe<g ref="char:EOLhyphen"/>verance is in our own power, or that the condition of <hi>Gods Peculiar People</hi> is mutable in regard of him; But they do imply how prone we are to ſin, in regard of our ſelves; And they ſhew, that
+<pb n="47" facs="tcp:100509:25"/> our own endeavours are required for the working out of our Salva<g ref="char:EOLhyphen"/>tion; and they are the means ſanctified of <hi>God,</hi> for the prevent<g ref="char:EOLhyphen"/>ing of ſin, and for the exciting of our care, and ſo for the pre<g ref="char:EOLhyphen"/>ſerving of us unto his heavenly Kingdome.</p>
+                  <p>And whereas we are ſaid to be kept by the power of God; We may not ſo underſtand it, as if we our ſelves might in the mean time ſit ſtill and do nothing: We are kept by <hi>God,</hi> and yet we alſo muſt keep our ſelves: It is <hi>God</hi> that keepeth us, and yet we alſo muſt watch and pray. But we are ſaid to be kept by <hi>God,</hi> for our greater encouragement. For if our endeavours be ſincere, though they be but weak, yet they will be effectuall, becauſe we have ſuch a mighty helper: And withall it is to teach us, to
+<pb n="48" facs="tcp:100509:26"/> whom we ougth to aſcribe all the glory when our endeavours be<g ref="char:EOLhyphen"/>come effectual. It is <hi>God</hi> that muſt have the glory of it, for it is by his power that we are kept, who worketh in us both to will and to do, of his own good plea<g ref="char:EOLhyphen"/>ſure.</p>
+                  <p>Be ſtrong therefore in the Lord, and in the power of his might; He that is with us is mightier then they that be againſt us. And therefore we need not fear; for neither the power, nor the policy of Hell ſhall prevaile againſt the People of God; And the mouth of the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it, <hi>Mat.</hi> 16.18.</p>
+               </div>
+            </div>
+            <div n="9" type="question">
+               <head>The Ninth Queſtion.</head>
+               <p>I <hi>Make no doubt of the power of God, I know that he is able to keep that which I have committed unto him: but I doubt of his will, I fear that he will not do it.</hi>
+               </p>
+               <div type="answer">
+                  <pb n="49" facs="tcp:100509:26"/>
+                  <head>Anſwer.</head>
+                  <p>Surely this is a needleſs fear; for his love is everlaſting, his gifts and calling are without Re<g ref="char:EOLhyphen"/>pentance; and whom he loveth, to the End he loveth them. And therefore <hi>Fear not, the Lord will not forſake his People, for his own Names ſake, becauſe it hath pleaſed him to make you his People,</hi> 1 Sam. 12.22. So that if once he hath loved us ſo well, as to ſet us apart for himſelf; He loveth himſelf better, then to forſake us. And though our unworthineſſe de<g ref="char:EOLhyphen"/>ſerve that <hi>God</hi> ſhould deny us, yet his Faithfulneſs is ſuch, that he cannot deny himſelf.</p>
+                  <p>Think therefore upon his love; Meditate upon his Power; Call to mind his romiſe; Forget not his Truth; And commit the keep<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:100509:27"/> of your ſoul unto him in well doing. Care you to do well, <hi>God</hi> will care for the reſt: For <hi>He pre<g ref="char:EOLhyphen"/>ſerveth the Souls of his Saints, he delivereth them out of the hand of the wicked,</hi> Pſal. 79.10.</p>
+               </div>
+            </div>
+            <div n="10" type="question">
+               <head>The Tenth Queſtion.</head>
+               <p>
+                  <hi>BUt ſeeing that mine own endea<g ref="char:EOLhyphen"/>vours are required for the work<g ref="char:EOLhyphen"/>ing out of my Salvation; And ſeeing that my aſſurance of Salvation cannot be ſound, unleſs my care and dili<g ref="char:EOLhyphen"/>gence, in the conſtant uſing of all good means tending thereunto, be every way anſwerable: Shew me, I pray you, by what means I may be enabled to continue patiently in well doing, that ſo at the laſt I may obtain eternal life.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Hereunto many things are
+<pb n="51" facs="tcp:100509:27"/> uſeful, the chiefeſt of which are theſe following.</p>
+                  <p n="1">1. <hi>Labour to be ſincere,</hi> by con<g ref="char:EOLhyphen"/>ſidering that all our wayes are before <hi>God.</hi> To walk before <hi>God</hi> is the way to be perfect, and ſin<g ref="char:EOLhyphen"/>cerity is the way to perſeve<g ref="char:EOLhyphen"/>rance. For the Righteous ſhall hold on his way, and he that hath clean hands, ſhall grow ſtronger and ſtronger, <hi>Iob</hi> 17.6. But he whoſe heart is not upright before <hi>God,</hi> will ſtart aſide in the time of Tryal; See 1 <hi>Iohn</hi> 2.19.</p>
+                  <p>
+                     <hi>Labour to overcome the World,</hi> that ſo neither the cares and glory of it may too deeply affect us, nor yet the croſſes and trou<g ref="char:EOLhyphen"/>bles of it, too much affright us. For each of theſe are great hin<g ref="char:EOLhyphen"/>derances to the practice of piety. Perfecution is that heat, that doth wither the word, and by it ſome are made to deny their Maſter;
+<pb n="52" facs="tcp:100509:28"/> And the cares of the World, are the thorns that choke the Word, and a means whereby it becomes unfruitfull. <hi>For the love of Money, is the root of all Evil, which while ſome have coveted after, they have erred from the Faith,</hi> 1 <hi>Tim.</hi> 6.10. Arm your ſelf therefore againſt both theſe; and to this end con<g ref="char:EOLhyphen"/>ſider with your ſelf, and think often upon that of our Saviour, <hi>Mat.</hi> 16.26. <hi>What is a Man pro<g ref="char:EOLhyphen"/>fited, if he ſhall gain the whole World, and loſe his own Soul?</hi> And upon that, <hi>Mat.</hi> 8.38. <hi>He that is aſha<g ref="char:EOLhyphen"/>med of me, of him will the Son of Man be aſhamed,</hi> &amp;c. And upon that, 2 <hi>Tim.</hi> 2.12. <hi>If we Suffer with him, we ſhall Reign with him: But if we Deny him, he will alſo Deny us.</hi> And learn to diſcern be<g ref="char:EOLhyphen"/>tween thoſe things that be ſeen, and the things that be not ſeen. For the things that be ſeen, are
+<pb n="53" facs="tcp:100509:28"/> but Temporall; but the things which are not ſeen are Eternal, 2 <hi>Cor.</hi> 4.18.</p>
+                  <p n="3">3. <hi>Watch in all things,</hi> for our Enemies are many, and ſecurity is dangerous, and ſin is ſo deceit<g ref="char:EOLhyphen"/>full, that it will quickly harden us: And this is certain, a Man never yields to his own corrupt diſpoſition for the committing of any evil, but he is ordinarily more willing to the ſecond act, then to the firſt; And who then can tell how far he may go aſtray, that doth but once give way to his own Corruption.</p>
+                  <p n="4">4. <hi>Labour to grow in Grace,</hi> and in the knowledge of our <hi>Lord</hi> and Saviour <hi>Jeſus Chriſt,</hi> by conſider<g ref="char:EOLhyphen"/>ing that our Labour cannot be in vain in the <hi>Lord.</hi> This <hi>endeavour to grow in Grace</hi> is a ſpecial means to keep us from being drawn a<g ref="char:EOLhyphen"/>way with the errour of the wic<g ref="char:EOLhyphen"/>ked:
+<pb n="54" facs="tcp:100509:29"/> But ſtanding ſtill, is in danger of turning back, and luke<g ref="char:EOLhyphen"/>warmneſs is the way to grow key-cold.</p>
+                  <p n="5">5. <hi>Deſpiſe not Prophecying</hi> if you would not quench the Spirit; If we would not be weary of wel<g ref="char:EOLhyphen"/>doing, we muſt wait upon the Word: <hi>For that is able to build us up, and to give us an Inheritance a<g ref="char:EOLhyphen"/>mong them that are Sanctified,</hi> Acts 20.32.</p>
+                  <p>And laſtly, <hi>We muſt pray with<g ref="char:EOLhyphen"/>out ceaſing,</hi> that he who hath be<g ref="char:EOLhyphen"/>gun a good work in us would alſo finiſh it, and grant that our whole Spirit, Soul and Body may be kept blameleſs unto the com<g ref="char:EOLhyphen"/>ing of our <hi>Lord Ieſus.</hi> This is the way to continue in well doing, and ſo running we ſhall obtain.</p>
+               </div>
+            </div>
+            <div n="11" type="question">
+               <pb n="55" facs="tcp:100509:29"/>
+               <head>The Eleventh Queſtion.</head>
+               <p>
+                  <hi>But though my ſoul may be cared for, yet my body may be in want. I want already many things that be neceſſary; Or at least I fear that I ſhall want ſuch things as be needfull for me; And this fear makes my life the more fearfull.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Doubtleſs, if our ſouls be cared for, other things may the leſſe trouble us; Howbeit againſt thoſe things alſo there is matter of comfort in <hi>Ieſus Chriſt.</hi> He that regards the ſoul, will not neglect the body; and he knows what we have need of: And if we be of his family, he will be ſure to pro<g ref="char:EOLhyphen"/>vide for us. He is <hi>able</hi> enough to help us, for the whole Earth is
+<pb n="56" facs="tcp:100509:30"/> the <hi>Lords,</hi> and the fulneſs there<g ref="char:EOLhyphen"/>of: And of his <hi>will</hi> we have no cauſe to doubt, for he hath pro<g ref="char:EOLhyphen"/>miſed that if we ſeek firſt the Kingdome of <hi>God,</hi> and his Righte<g ref="char:EOLhyphen"/>ouſneſs, <hi>all theſe things</hi> ſhall be added as it were over and above, and into the bargain, <hi>Mat.</hi> 6.33. And he hath ſaid, that he will withhold <hi>no good thing</hi> from them that fear him, <hi>Pſal,</hi> 34.9, 10. Whereupon we may ſafely con<g ref="char:EOLhyphen"/>clude, that if he keep any thing from us, it will be good for us to be without it: So that we may well ſay with the Prophet <hi>David, The Lord is my Shepherd, I cannot want,</hi> Pſal. 23.1. For he <hi>that hath given us</hi> Chriſt, <hi>how ſhall he not with him alſo freely give us all things?</hi> Rom. 8.32.</p>
+               </div>
+            </div>
+            <div n="12" type="question">
+               <pb n="57" facs="tcp:100509:30"/>
+               <head>The Twelfth Queſtion.</head>
+               <p>I <hi>Have been a Man of Sorrows, and acquainted with Grief; I have gone through much Miſery already, and many are the Croſſes and Troubles that are upon me at the preſent, and I fear that there be more and worſe yet to come: So that ſometimes I begin to think that the Lord doth not love me, and I am ready to doubt what will be<g ref="char:EOLhyphen"/>come of me; And I fear that my Pa<g ref="char:EOLhyphen"/>tience will one day be tryed, and that I ſhall faint in the day of Evil. Shew me therefore, I pray you, how I may be comforted againſt this fear; and how I may be enabled to wade through all with Chriſtian patience.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>True it is, that the croſſes and troubles, which men ſhall meet
+<pb n="58" facs="tcp:100509:31"/> withall in the way to Heaven, are matters of offence, and unto ſome they are very powerfull, turning them back from the hope laid be<g ref="char:EOLhyphen"/>fore them, to the embracing of this preſent World. But if we would think upon things aright, in the midſt of miſery, we ſhould have comforts enough to refreſh our ſouls. Neither is there any trouble that can befall us, in the midſt of which they have not matter of ſtrong conſolation, <hi>which being juſtified by Faith, are at peace with God, through Ieſus Christ.</hi>
+                  </p>
+                  <p>Now to the end that we may be the better comforted againſt all croſſes, let us make uſe of theſe few conſiderations follow<g ref="char:EOLhyphen"/>ing.</p>
+                  <p n="1">1. Conſider that it is no new or ſtrange thing to be exerciſed with Afflictions; Neither are Croſſes and Troubles <hi>of them<g ref="char:EOLhyphen"/>ſelves</hi>
+                     <pb n="59" facs="tcp:100509:31"/> an argument of <hi>Gods</hi> ha<g ref="char:EOLhyphen"/>tred, but rather a token of his love, and a witneſs of our adop<g ref="char:EOLhyphen"/>tion, if we bear them patiently, and make good uſe of them. There is not any affliction inci<g ref="char:EOLhyphen"/>dent to the nature of man, which ſome one or other, even of <hi>Gods</hi> own dear Servants and Children, have not been exerciſed withall. Look upon <hi>David,</hi> and <hi>Jacob,</hi> and <hi>Ioſeph,</hi> and <hi>Iob,</hi> and <hi>Paul,</hi> and all that cloud of Witneſſes made mention of <hi>Heb.</hi> 11. And we ſhall finde, that through <hi>many Afflicti<g ref="char:EOLhyphen"/>ons,</hi> they all entred into the King<g ref="char:EOLhyphen"/>dome of <hi>God.</hi> Nay, look upon the Captain of our Salvation, and we ſhall finde, that even he himſelf was made <hi>perfect through Sufferings, Heb.</hi> 2.10. And this muſt needs be a ſpecial means to enable us to bear all with the greater patience, when we ſhall
+<pb n="60" facs="tcp:100509:32"/> know and conſider, that though our afflictions be for number ma<g ref="char:EOLhyphen"/>ny, and for nature grievous, yet they are but the meaſure of our Betters.</p>
+                  <p n="2">2. Conſider that <hi>God</hi> hath pro<g ref="char:EOLhyphen"/>miſed never to leave us nor for<g ref="char:EOLhyphen"/>ſake us, <hi>Heb.</hi> 13.5. And his pre<g ref="char:EOLhyphen"/>ſence alone is ſupport ſufficient even in the worſt of miſeries. How can <hi>Iacob</hi> be afraid to go down into <hi>Egypt,</hi> when <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelf hath ſaid, he will go with him? <hi>Gen.</hi> 46.34. <hi>God</hi> hath made the like promiſe unto us, and therefore if he bid us go into troubles; If he command us to walk even through the valley of the ſhadow of death, yet we need fear no evil, as long as he is with us: For, <hi>if God be with us, who can be againſt us?</hi> Rom. 8.31.</p>
+                  <p n="3">3. Conſider, that unto ſuch as
+<pb n="61" facs="tcp:100509:32"/> do believe in <hi>Chriſt,</hi> the nature of Afflictions is wholly altered; for their ſting is pull'd out, and their bitterneſs is allayed: They may ſavour of <hi>anger,</hi> of <hi>wrath</hi> they do not; <hi>Croſſes</hi> they may be, <hi>Curſes</hi> they are not: They may be <hi>Cha<g ref="char:EOLhyphen"/>ſtiſements</hi> for our correction, but they are not <hi>Iudgements</hi> for our confuſion. For <hi>Chriſt</hi> hath ſuffer<g ref="char:EOLhyphen"/>ed <hi>whatever wrath</hi> was due unto us by reaſon of our ſins: And if we be once reconciſed unto <hi>God</hi> by Faith in <hi>Chriſt,</hi> there is more mat<g ref="char:EOLhyphen"/>ter of comfort in the aſſurance of his Love, then there can be of de<g ref="char:EOLhyphen"/>jection in the greateſt trouble.</p>
+                  <p n="4">4. Conſider that <hi>God</hi> intends nothing but good unto us in his ſharpeſt dealings with us: For it is all to humble us; and to prove us, and to do us good at our later end; all is for our profit, that we may be partakers of his holineſs.
+<pb n="62" facs="tcp:100509:33"/> For <hi>hereby</hi> he reforms what hath <hi>been amiſs</hi> in us in times paſt; <hi>here<g ref="char:EOLhyphen"/>by our iniquity ſhall be purged, and this is the fruit, to take away our ſin,</hi> Iſa. 27.9.</p>
+                  <p>
+                     <hi>Hereby</hi> he prevents ſin in us for the time to come, as he did St. <hi>Paul,</hi> unto whom there was ſent the Meſſenger of Satan to buffet him, leſt he ſhould have been exalted above meaſure, 2 <hi>Cor.</hi> 12.7.</p>
+                  <p>
+                     <hi>Hereby</hi> he doth wean us from the Love of the World, and Worldly vanities. As long as all goes well with us, we are rea<g ref="char:EOLhyphen"/>dy to ſay with S. <hi>Peter, It is good to be here:</hi> But when once we be<g ref="char:EOLhyphen"/>gin to be Afflicted, then preſent<g ref="char:EOLhyphen"/>ly with the <hi>Prodigal,</hi> our <hi>minds are homewards.</hi>
+                  </p>
+                  <p>
+                     <hi>Hereby</hi> he deals with us as the Huſband-man doth by the Vine, he pares and prunes us, to make
+<pb n="63" facs="tcp:100509:33"/> us the more fruitfull, <hi>Iohn</hi> 15.2.</p>
+                  <p>
+                     <hi>Hereby</hi> he doth exerciſe our Faith and Patience, and makes tryal of our ſincerity, as he did by <hi>Iob.</hi> And ſo in this he lays the ground of our greater glory: For greater Afflictions require grea<g ref="char:EOLhyphen"/>ter Patience; and the greater our Patience is, the greater ſhall be our future Happineſs.</p>
+                  <p>And the conſideration of this muſt needs be a means to per<g ref="char:EOLhyphen"/>ſwade us to Patience: For if we can willingly endure ſmarting<g ref="char:EOLhyphen"/>water for the clearing of our eyes; and bitter Pills, and ſharp lances for the health of our bo<g ref="char:EOLhyphen"/>dies: much more ought we to bear with patience the ſmarting hand of Almighty <hi>God</hi> for the health of our ſouls. There is no Affliction indeed joyous, for the preſent, but grievous; but after it worketh the peaceable fruit of
+<pb n="64" facs="tcp:100509:34"/> Righteouſneſs to ſuch as are ex<g ref="char:EOLhyphen"/>erciſed thereby, <hi>Heb.</hi> 12.11.</p>
+                  <p>Conſider that if we do con<g ref="char:EOLhyphen"/>tinue faithfull unto the death, we ſhall receive a Crown of Life. And if we do but have an eye to <hi>that recompence of reward,</hi> we ſhall eaſily be drawn, as <hi>Moſes</hi> was, to eſteem the <hi>reproach of Chriſt</hi> grea<g ref="char:EOLhyphen"/>ter Riches then the Treaſures of <hi>Egypt;</hi> and to chuſe rather to ſuffer Affliction with the People of <hi>God,</hi> then to enjoy the plea<g ref="char:EOLhyphen"/>ſures of ſin for a ſeaſon, <hi>Heb.</hi> 11.25, 26. For the happineſs of that Kingdom, which is to come, is ſuch, that our Bleſſed Saviour accounts it matter of <hi>Comfort</hi> a<g ref="char:EOLhyphen"/>gainſt all <hi>fear</hi> whatſoever, as it doth plainly appear by thoſe words of his, <hi>Luke</hi> 12.32. <hi>Fear not little Flock, for it is your Fathers good pleaſure to give you the King<g ref="char:EOLhyphen"/>dome.</hi> Where the onely Argu<g ref="char:EOLhyphen"/>ment
+<pb n="65" facs="tcp:100509:34"/> that he makes uſe of for the encouraging of his little flock, is the hopes of the Kingdom. And again by that place, <hi>Mat.</hi> 5.11, 12. <hi>Bleſſed are ye, when Men ſhall revile you, and perſecute you, and ſhall ſay all manner of evil againſt you falſly for my ſake. Rejoyce, and be exceeding glad; for great is your re<g ref="char:EOLhyphen"/>ward in Heaven, for ſo perſecuted they the Prophets which were before you.</hi> Wherein our Saviour doth hearten his Diſciples againſt Per<g ref="char:EOLhyphen"/>ſecution, only upon this ground, becauſe their reward ſhould be great in Heaven. And ſurely in <hi>S. Paul's</hi> Computation, the pre<g ref="char:EOLhyphen"/>ſent Affliction is not worthy the ſpeaking of, in regard of that glo<g ref="char:EOLhyphen"/>ry that ſhall be revealed, <hi>Rom.</hi> 8.18. Neither is there indeed, any compariſon at all between them; for the one is but a <hi>light</hi> &amp; <hi>momen<g ref="char:EOLhyphen"/>tary affliction,</hi> the other is a far <hi>more
+<pb n="66" facs="tcp:100509:35"/> exceeding and eternal weight of glory,</hi> 2 <hi>Cor.</hi> 4.17. So that this good<g ref="char:EOLhyphen"/>neſs of <hi>God</hi> in the Land of the Living, is enough to keep us from fainting under the heavieſt burden: For though our outward Man decay, yet while we have an eye to this joy ſet before us, our inward Man will be renewed day by day. Fitly therefore is the hope of this Happineſs, called the <hi>Anchor of the Soul,</hi> and the <hi>Hel<g ref="char:EOLhyphen"/>met of Salvation;</hi> for by this <hi>An<g ref="char:EOLhyphen"/>chor</hi> we are preſerved in the deep waters, by this <hi>Helmet</hi> we are Protected in the times of danger; and by flying unto this <hi>Hope,</hi> we are ſure to finde refuge in the day of evil.</p>
+                  <p>And thus we may be comfort<g ref="char:EOLhyphen"/>ed againſt evils preſent. Now as for thoſe that are yet to come, we may thus reſolve, <hi>Either they ſhall not come at all:</hi> For <hi>God</hi> will
+<pb n="67" facs="tcp:100509:35"/> ſtand between us and harm, and keep us quiet from fear of evil: Without his providence nothing can befall us, and therefore no<g ref="char:EOLhyphen"/>thing ſhall befall us to do us hurt: For he is a <hi>God</hi> that delighteth in the proſperity of his Servants.</p>
+                  <p>Or if they do come, <hi>Yet the Lord will deliver us out of all:</hi> there ſhall be an end. Enlargement will come, and he will deliver his people, even becauſe he hath a favour unto them.</p>
+                  <p>And in the mean time, <hi>He will ſupport us in them,</hi> till deliverance do come; and his grace will be ſufficient for us. <hi>For God is faith<g ref="char:EOLhyphen"/>full, and will not ſuffer us to be tempt<g ref="char:EOLhyphen"/>ed above that we are able: But with the temptation alſo make away to eſ<g ref="char:EOLhyphen"/>cape, that we may be able to bear it,</hi> 1 <hi>Cor.</hi> 10.13.</p>
+                  <p>And <hi>he will alſo give us benefit by them;</hi> For he maketh all to work
+<pb n="68" facs="tcp:100509:36"/> together for good, to thoſe that love him, <hi>Rom.</hi> 8, 28. And thus we may be comforted againſt our fears alſo. In a word, there's none can know the way to Hea<g ref="char:EOLhyphen"/>ven, better then he that dwells there. And therefore which way ſoever God leads us, it is ſafe to follow him. The uneaſineſs of the way, makes us think that it is the fartheſt way about; but the Lord knows it is the next way home. And whatſoever they ſeem to us, <hi>Yet all the wayes of the Lord are Mercy and Truth, unto ſuch as keep his Covenant, and his Teſtimonies,</hi> Pſal. 25.10.</p>
+               </div>
+            </div>
+            <div n="13" type="question">
+               <head>The Thirteenth Queſtion.</head>
+               <p>
+                  <hi>MY troubles are great, exceed<g ref="char:EOLhyphen"/>ing weighty and burdenſome, and there are no ſorrows like unto my ſorrows; and this is that, that doth
+<pb n="69" facs="tcp:100509:36"/> ſo break my heart, and drink up my Spirit.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This is Anſwered in a word. It is but a conceit of our own, to think our own troubles the worſt, when as indeed they are but common temptations: But ſay the worſt, grant that there be none like them; yet if we ſhall compare them either with that which we have deſerved; or with that which <hi>Chriſt</hi> himſelf for us hath ſuffered; or with that weight of glory that ſhall be revealed, we ſhall then eſteem them all as nothing. And as great as they are, if we would out only look up and conſider duly from whence they come, even that alone would be enough to make us patient: For thus was
+<pb n="70" facs="tcp:100509:37"/> it with <hi>David,</hi> he was dumb, and opened not his mouth, conſider<g ref="char:EOLhyphen"/>ing who did it, <hi>Pſal.</hi> 39.9.</p>
+               </div>
+            </div>
+            <div n="14" type="question">
+               <head>The Fourteenth Queſtion.</head>
+               <p>
+                  <hi>But my Affliction is ſuch, that I am kept from enjoying the li<g ref="char:EOLhyphen"/>berty of the Houſe of God, and from prayſing him in the Congregation.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This muſt needs be trouble<g ref="char:EOLhyphen"/>ſome to minds well, affected; howbeit if <hi>God</hi> himſelf reſtrains us, we may then be ſure that he requires not our preſence. And in ſuch a caſe, if our deſires be with the Congregation, even that deſire, will be ſufficient. Neither is the Lord ſo confined to the Congregation, but that he is near to all, that call upon him
+<pb n="73" facs="tcp:100509:37"/> faithfully whereſoever they be, when neceſſity, and not neglect is the reaſon of their abſence. And beſides all this, if at any time, by reaſon of age or ſickneſs, we are not able to do thoſe things which we do deſire, and did performe in the times of our health and ſtrength, then ſhall a willing mind be well pleaſing unto God, and good deſires ſhall be accep<g ref="char:EOLhyphen"/>ted. Yea furthermore, this we muſt know for our conſolation, that a patient ſubmitting to the good will of <hi>God,</hi> is a <hi>Worſhipping of him,</hi> as appears by that, <hi>Iob</hi> 1.20, 21. Where <hi>Iob</hi> is ſaid to Worſhip <hi>God,</hi> when he did with patience and contentedneſs ſub<g ref="char:EOLhyphen"/>mit unto him. This is indeed, a glorifying of God, and herein we acknowledge him to be our God, and in thus ſubmitting we ſhall perform unto God as good
+<pb n="74" facs="tcp:100509:38"/> ſervice as ever we did in all our lives. For this is the paſſive part of true obedience, and the tryal of ſincerity in other things. To ſerve the Lord when all goes well with us, is much; and it is alto<g ref="char:EOLhyphen"/>gether as much, if not more, to reſolve to truſt in him, though he ſhould kill us. And if we can with <hi>Job</hi> hold faſt our Righteouſ<g ref="char:EOLhyphen"/>neſs, and in the hour of ſempta<g ref="char:EOLhyphen"/>tion not fall away, this is a true note of pure Religion, and a ma<g ref="char:EOLhyphen"/>nifeſt Argument of ſincerity and truth.</p>
+               </div>
+            </div>
+            <div n="15" type="question">
+               <head>The Fifteenth Queſtion.</head>
+               <p>
+                  <hi>And yet after all this, I muſt die; and when a few years are come, I ſhall go the way whence I ſhall not re<g ref="char:EOLhyphen"/>turn: and the fear of Death doth much amaze me.</hi>
+               </p>
+               <div type="answer">
+                  <pb n="75" facs="tcp:100509:38"/>
+                  <head>Anſwer.</head>
+                  <p>Verily there is no ſolid reaſon why it ſhould: for God hath gi<g ref="char:EOLhyphen"/>ven us victory over death it ſelf, through our Lord <hi>Jeſus Chriſt.</hi> The death of <hi>Christ,</hi> was the death of death. Death faſtning upon him, to whom it was not due, loſt it's ſting, and ſo became leſs able to hurt thoſe that had deſerved it. <hi>Christ</hi> hath pulled out the ſting of Death, by dying for ſin; So that now, like a Bee, or Snake without a ſting, it may buzze a<g ref="char:EOLhyphen"/>bout us, and afright us, but it can<g ref="char:EOLhyphen"/>not hurt us. All the hurt that death can do to ſuch as believe in the Lord <hi>Jeſus,</hi> is to free them out of Priſon, to put an end to their dayes of Sin, to carry them home, to their Fathers houſe, to let them into their Maſters joy, to pull
+<pb n="76" facs="tcp:100509:39"/> down thoſe mouldring Cottages, wherein they dwell, and to build them up to Immortality. For if we believe that <hi>Jeſus</hi> Died, and roſe again, them alſo that ſleep in <hi>Jeſus,</hi> ſhall God bring with him, and they ſhall be for ever with the Lord. And of this Happi<g ref="char:EOLhyphen"/>neſs the worſt kinde of Death, that can befall us, cannot deprive us. A Man may dye in Poverty, he may dye with Extreamity of Torments, he may dye by com<g ref="char:EOLhyphen"/>mon Calamities, and yet he may dye in Faith; and ſo dying, his End ſhall be Peace: <hi>For Bleſſed are the dead which dye in the Lord, even ſo ſaith the Spirit,</hi> &amp;c. <hi>Rev.</hi> 14.13. So that if we did but throughly underſtand the Nature of Death, and what it is to the People of God, we ſhould be ſo far from being afraid of it, that with Saint <hi>Paul,</hi> we ſhould rather
+<pb n="77" facs="tcp:100509:39"/> deſire to be diſſolved, becauſe then we ſhould be with Chriſt, which is the beſt of all.</p>
+                  <p>To ſhut up this Point, and ſo likewiſe the whole matter con<g ref="char:EOLhyphen"/>cerning Afflictions, this let me adde to the reſt; That if we do deſire to get Good by theſe Me<g ref="char:EOLhyphen"/>ditations, and to be upheld with Comfort in the time of Trouble, we muſt <hi>Continue inſtant in prayer.</hi> This is that Receipt, which the Holy Ghoſt preſcribes to all ſorts of Perſons, againſt all manner of Grievances whatſoever, <hi>James</hi> 5, 23. This is that Remedy that is alwayes at hand, and never out of ſeaſon. Yea, this is that Meſ<g ref="char:EOLhyphen"/>ſenger, which being diſpatched aright, was never ſent empty away. Believe it, If a Man were in a caſe more deſperate then Death, in a place worſe then Hell, yet if there he could pray
+<pb n="78" facs="tcp:100509:40"/> heartily, he ſhould find Comfort and Strength, even beyond Hope: for our Prayers uſe to be with the utmoſt of our Hopes, if not be<g ref="char:EOLhyphen"/>yond them; and yet God doth uſe to be better to us then our Prayers.</p>
+               </div>
+            </div>
+            <div n="16" type="question">
+               <head>The Sixteenth Queſtion.</head>
+               <p>I <hi>See now that there is matter enough of ſolid Comfort in the Word of God. But the unevenneſs of my walking makes me to doubt, that I have no Part nor Portion in thoſe precious Promiſes, which</hi> God <hi>hath made unto his People.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Promiſes I confeſſe that are miſapplied, can afford to the Soul no ſolid Comfort. But from our Failings we may not preſently
+<pb n="79" facs="tcp:100509:40"/> conclude, That they do not at all belong to us: For God looks up<g ref="char:EOLhyphen"/>on the Heart; and where Ability is wanting, the Will is accepted.</p>
+                  <p>Are not your Failings your Grief? are they not beſides your Will? are they not contrary to the current of your Deſires, and the main bent of your Reſoluti<g ref="char:EOLhyphen"/>ons and Endeavours? Is it not your Endeavour to do the Will of God, though it coſt you the parting with the Sweeteſt Sins, even your own Iniquity? And is it not your Reſolution, that you will not wickedly De<g ref="char:EOLhyphen"/>part from God? If it be ſo, then notwithſtanding your Failings, you may ſay with <hi>David, I have kept thy Word:</hi> For though this be not ſuch a meaſure of keeping as the Law requireth, yet it is ſuch a keeping as God accepteth: For he accounteth ſuch as keep them<g ref="char:EOLhyphen"/>ſelves
+<pb n="80" facs="tcp:100509:41"/> from wilfull ſins, upright and innocent, through <hi>Chriſt</hi> their Strength, and their Redeemer, as appears by that paſſage, <hi>Pſal.</hi> 19.13.</p>
+                  <p>And this is a true Rule, where<g ref="char:EOLhyphen"/>by to proceed in the judging of our ſelves. If a Man, that be<g ref="char:EOLhyphen"/>lieves in <hi>Christ</hi> continues in an unknown Sin, that cannot hinder the uprightneſs of his heart, ſo the ignorance be not wilfull; but the leaſt touch of knowledge, or wilfulneſs mars ſincerity. So that if our failings be not wilful, though they be many, yet they cannot hinder our intereſt in the promiſes of God.</p>
+                  <p>And what can we now object more? Do we doubt the truth of all theſe promiſes? Surely we need not: For God is not a Man that he ſhould lye, neither the Son of Man, that he ſhould re<g ref="char:EOLhyphen"/>pent:
+<pb n="81" facs="tcp:100509:41"/> Hath he ſpoken, and ſhall he not do it? Hath he ſaid, and ſhall it not come to paſs? Was he ever yet worſe then his word? And have not we had experience of his Love, as well upon our ſelves as others? Is he not the Faithful and True Witneſs, and a God that is moſt zealous of his own glory? Why then are we diſquieted? And why are our hearts dejected within us? Still truſt in God, make ſtraight ſteps to your feet: Pray for Faith in the Promiſes, and ſtir up your ſelf to take hold of <hi>God,</hi> tarry the Lords leaſure, and fear not; Light is <hi>Sown</hi> for the Righteous, and Gladneſs for ſuch as be up<g ref="char:EOLhyphen"/>right in heart; It may lye buried in the ground out of ſight for a ſeaſon, it may be ſomewhat long in coming up, and very unlikely to come to any perfection; Ne<g ref="char:EOLhyphen"/>vertheleſs,
+<pb n="82" facs="tcp:100509:42"/> in <hi>due ſeaſon</hi> we ſhall reap, if we faint not. And there<g ref="char:EOLhyphen"/>fore caſt not away your confi<g ref="char:EOLhyphen"/>dence: For the worſt is paſt, the good is begun, the beſt is at hand: Lift up therefore the hands that hang down, and ſtrengthen the feeble knees; and run with patience the Race ſet before us; and being partakers of ſuch precious promiſes, let us think upon them, believe in them, and live in them: and in ſo doing, we ſhall rejoyce with joy unſpeakable, and full of glory.</p>
+                  <p>Hear the ſum of all: <hi>There is no Condemnation to them that are in Christ Jeſus, who walk not after the Fleſh, but after the Spirit,</hi> Rom. 8.1. <hi>There is no Condemnation,</hi> and there's our comfort: The ground hereof, is <hi>Christ;</hi> the way unto it, is by Faith to be in him; the evidence of it, <hi>Is to walk not after
+<pb n="83" facs="tcp:100509:42"/> the Fleſh, but after the Spirit.</hi> In the matter of merit, <hi>Chriſt</hi> is all; in matter of intereſt, and ap<g ref="char:EOLhyphen"/>plication, Faith is all; in mat<g ref="char:EOLhyphen"/>ter of evidence and manife<g ref="char:EOLhyphen"/>ſtation, <hi>new obedience is all.</hi> No<g ref="char:EOLhyphen"/>thing can free us from Condem<g ref="char:EOLhyphen"/>nation, but <hi>Christ;</hi> nothing can give us intereſt in <hi>Chriſt,</hi> but <hi>faith;</hi> nothing can aſſure us that we do truly believe in <hi>Chriſt,</hi> and ſhall be delivered from condemnati<g ref="char:EOLhyphen"/>on, but a care to be obedient unto <hi>Chriſt</hi> in all things: wherefore let us ſo believe, and ſo live: for as many as walk according to this Rule, peace ſhall be upon them, and upon the <hi>Iſrael</hi> of <hi>God.</hi>
+                  </p>
+                  <p>Now the God of hope fill us with all Joy and Peace in believing, that we may abound in hope through the Power of the Holy Ghoſt, <hi>Amen</hi> and <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>In the multitude of the Thoughts within me, thy Comforts delight my Soul,</hi>
+                  </p>
+                  <bibl>Pſal. 94.19.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
